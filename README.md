@@ -20,6 +20,8 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 # Who is doing what?
 
 Here is the list of challenges we are solving and the student who solves.
+Yael Hubara- [Chronohack](https://play.picoctf.org/practice/challenge/468?page=8)
+Yael Hubara- [Event-Viewing](https://play.picoctf.org/practice/challenge/456?page=8)
 .
 ## Web exploitation
 
